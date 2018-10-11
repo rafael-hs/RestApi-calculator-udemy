@@ -1,0 +1,14 @@
+F:\Projetos\RestApiCalculator\RestApiCalculator\bin\Debug\netcoreapp2.1\RestApiCalculator.deps.json
+F:\Projetos\RestApiCalculator\RestApiCalculator\bin\Debug\netcoreapp2.1\RestApiCalculator.runtimeconfig.json
+F:\Projetos\RestApiCalculator\RestApiCalculator\bin\Debug\netcoreapp2.1\RestApiCalculator.runtimeconfig.dev.json
+F:\Projetos\RestApiCalculator\RestApiCalculator\bin\Debug\netcoreapp2.1\RestApiCalculator.dll
+F:\Projetos\RestApiCalculator\RestApiCalculator\bin\Debug\netcoreapp2.1\RestApiCalculator.pdb
+F:\Projetos\RestApiCalculator\RestApiCalculator\obj\Debug\netcoreapp2.1\RestApiCalculator.csprojAssemblyReference.cache
+F:\Projetos\RestApiCalculator\RestApiCalculator\obj\Debug\netcoreapp2.1\RestApiCalculator.csproj.CoreCompileInputs.cache
+F:\Projetos\RestApiCalculator\RestApiCalculator\obj\Debug\netcoreapp2.1\RestApiCalculator.RazorAssemblyInfo.cache
+F:\Projetos\RestApiCalculator\RestApiCalculator\obj\Debug\netcoreapp2.1\RestApiCalculator.RazorAssemblyInfo.cs
+F:\Projetos\RestApiCalculator\RestApiCalculator\obj\Debug\netcoreapp2.1\RestApiCalculator.AssemblyInfoInputs.cache
+F:\Projetos\RestApiCalculator\RestApiCalculator\obj\Debug\netcoreapp2.1\RestApiCalculator.AssemblyInfo.cs
+F:\Projetos\RestApiCalculator\RestApiCalculator\obj\Debug\netcoreapp2.1\RestApiCalculator.RazorTargetAssemblyInfo.cache
+F:\Projetos\RestApiCalculator\RestApiCalculator\obj\Debug\netcoreapp2.1\RestApiCalculator.dll
+F:\Projetos\RestApiCalculator\RestApiCalculator\obj\Debug\netcoreapp2.1\RestApiCalculator.pdb
